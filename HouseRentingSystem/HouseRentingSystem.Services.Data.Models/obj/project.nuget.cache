@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m8gffBLUsX9vUcoHWXOp1yCfCut2d4g/7tmKMcrbHCBA4v9ZrXflrU8RfuZbr3ws2N2ALnE5jAbvFAAUfH4VMQ==",
+  "dgSpecHash": "JNAAQ7KXCBoftGAUJzeScdctb/CrcnTD1UJ3TanpIitFX2GzjEPWzvUAuWP2ekSXftNNScT4cJxVMqA0sXp8vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Services.Data.Models\\HouseRentingSystem.Services.Data.Models.csproj",
+  "projectFilePath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data.Models\\HouseRentingSystem.Services.Data.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gogat\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\gogat\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.20\\microsoft.aspnetcore.cryptography.internal.6.0.20.nupkg.sha512",

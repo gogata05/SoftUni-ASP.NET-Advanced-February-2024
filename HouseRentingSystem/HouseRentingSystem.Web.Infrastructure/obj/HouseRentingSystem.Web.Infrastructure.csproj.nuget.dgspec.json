@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj": {}
+    "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
+    "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj",
+        "projectUniqueName": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj",
         "projectName": "HouseRentingSystem.Common",
-        "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj",
+        "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj",
         "packagesPath": "C:\\Users\\gogat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Common\\obj\\",
+        "outputPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj": {
+    "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj",
+        "projectUniqueName": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj",
         "projectName": "HouseRentingSystem.Data.Models",
-        "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj",
+        "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj",
         "packagesPath": "C:\\Users\\gogat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Data.Models\\obj\\",
+        "outputPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,8 +91,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
-                "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj"
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj"
               }
             }
           }
@@ -109,7 +109,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.11, )"
+              "version": "[6.0.20, )"
             }
           },
           "imports": [
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj": {
+    "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj",
+        "projectUniqueName": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj",
         "projectName": "HouseRentingSystem.Data",
-        "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj",
+        "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj",
         "packagesPath": "C:\\Users\\gogat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Data\\obj\\",
+        "outputPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -160,11 +160,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
-                "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj"
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj"
               },
-              "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj": {
-                "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj"
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj"
+              },
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Mapping\\HouseRentingSystem.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Mapping\\HouseRentingSystem.Services.Mapping.csproj"
               }
             }
           }
@@ -181,17 +184,17 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.11, )"
+              "version": "[6.0.20, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.11, )"
+              "version": "[6.0.20, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.11, )"
+              "version": "[6.0.20, )"
             }
           },
           "imports": [
@@ -214,14 +217,14 @@
         }
       }
     },
-    "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj": {
+    "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data.Models\\HouseRentingSystem.Services.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj",
-        "projectName": "HouseRentingSystem.Services.Data",
-        "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj",
+        "projectUniqueName": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data.Models\\HouseRentingSystem.Services.Data.Models.csproj",
+        "projectName": "HouseRentingSystem.Services.Data.Models",
+        "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data.Models\\HouseRentingSystem.Services.Data.Models.csproj",
         "packagesPath": "C:\\Users\\gogat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Services.Data\\obj\\",
+        "outputPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -242,17 +245,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
-                "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj"
-              },
-              "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj": {
-                "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj"
-              },
-              "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj": {
-                "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj"
-              },
-              "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj"
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj"
               }
             }
           }
@@ -286,14 +280,14 @@
         }
       }
     },
-    "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj": {
+    "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj",
-        "projectName": "HouseRentingSystem.Web.Infrastructure",
-        "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj",
+        "projectName": "HouseRentingSystem.Services.Data",
+        "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj",
         "packagesPath": "C:\\Users\\gogat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Web.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -314,8 +308,151 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj": {
-                "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj"
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj"
+              },
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj"
+              },
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj"
+              },
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data.Models\\HouseRentingSystem.Services.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data.Models\\HouseRentingSystem.Services.Data.Models.csproj"
+              },
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Mapping\\HouseRentingSystem.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Mapping\\HouseRentingSystem.Services.Mapping.csproj"
+              },
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Mapping\\HouseRentingSystem.Services.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Mapping\\HouseRentingSystem.Services.Mapping.csproj",
+        "projectName": "HouseRentingSystem.Services.Mapping",
+        "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Mapping\\HouseRentingSystem.Services.Mapping.csproj",
+        "packagesPath": "C:\\Users\\gogat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gogat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj",
+        "projectName": "HouseRentingSystem.Web.Infrastructure",
+        "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\gogat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Web.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gogat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj"
               }
             }
           }
@@ -330,6 +467,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -355,14 +496,14 @@
         }
       }
     },
-    "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj": {
+    "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj",
         "projectName": "HouseRentingSystem.Web.ViewModels",
-        "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj",
+        "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.Web.ViewModels.csproj",
         "packagesPath": "C:\\Users\\gogat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Web.ViewModels\\obj\\",
+        "outputPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Web.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -383,8 +524,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
-                "projectPath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj"
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj"
+              },
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj"
+              },
+              "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Mapping\\HouseRentingSystem.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Mapping\\HouseRentingSystem.Services.Mapping.csproj"
               }
             }
           }

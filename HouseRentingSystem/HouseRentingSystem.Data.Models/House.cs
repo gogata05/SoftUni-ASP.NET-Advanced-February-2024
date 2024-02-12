@@ -8,7 +8,7 @@
     {
         public House()
         {
-            this.Id = Guid.NewGuid();
+            Id = Guid.NewGuid();
         }
 
         [Key]
@@ -33,6 +33,8 @@
         public decimal PricePerMonth { get; set; }
 
         public DateTime CreatedOn { get; set; }
+
+        public bool IsActive { get; set; }
 
         public int CategoryId { get; set; }
 

@@ -1,11 +1,19 @@
 namespace HouseRentingSystem.Web
 {
+    using System.Reflection;
+
+    using Microsoft.AspNetCore.Identity;
+    using Microsoft.AspNetCore.Mvc;
     using Microsoft.EntityFrameworkCore;
     
     using Data;
     using Data.Models;
     using Infrastructure.Extensions;
+    using Infrastructure.ModelBinders;
     using Services.Data.Interfaces;
+    using Services.Mapping;
+    using ViewModels.Home;
+    using static Common.GeneralApplicationConstants;
 
     public class Program
     {
@@ -32,14 +40,34 @@ namespace HouseRentingSystem.Web
                     options.Password.RequiredLength =
                         builder.Configuration.GetValue<int>("Identity:Password:RequiredLength");
                 })
+                .AddRoles<IdentityRole<Guid>>()
                 .AddEntityFrameworkStores<HouseRentingDbContext>();
 
             builder.Services.AddApplicationServices(typeof(IHouseService));
 
-            builder.Services.AddControllersWithViews();
+            builder.Services.AddRecaptchaService();
+
+            builder.Services.AddMemoryCache();
+            builder.Services.AddResponseCaching();
+
+            builder.Services.ConfigureApplicationCookie(cfg =>
+            {
+                cfg.LoginPath = "/User/Login";
+                cfg.AccessDeniedPath = "/Home/Error/401";
+            });
+
+            builder.Services
+                .AddControllersWithViews()
+                .AddMvcOptions(options =>
+                {
+                    options.ModelBinderProviders.Insert(0, new DecimalModelBinderProvider());
+                    options.Filters.Add<AutoValidateAntiforgeryTokenAttribute>();
+                });
 
             WebApplication app = builder.Build();
-            
+
+            AutoMapperConfig.RegisterMappings(typeof(ErrorViewModel).GetTypeInfo().Assembly);
+
             if (app.Environment.IsDevelopment())
             {
                 app.UseMigrationsEndPoint();
@@ -47,7 +75,8 @@ namespace HouseRentingSystem.Web
             }
             else
             {
-                app.UseExceptionHandler("/Home/Error");
+                app.UseExceptionHandler("/Home/Error/500");
+                app.UseStatusCodePagesWithRedirects("/Home/Error?statusCode={0}");
                 
                 app.UseHsts();
             }
@@ -56,12 +85,35 @@ namespace HouseRentingSystem.Web
             app.UseStaticFiles();
 
             app.UseRouting();
+            
+            app.UseResponseCaching();
 
             app.UseAuthentication();
             app.UseAuthorization();
 
-            app.MapDefaultControllerRoute();
-            app.MapRazorPages();
+            app.EnableOnlineUsersCheck();
+
+            if (app.Environment.IsDevelopment())
+            {
+                app.SeedAdministrator(DevelopmentAdminEmail);
+            }
+            
+            app.UseEndpoints(config =>
+            {
+                config.MapControllerRoute(
+                    name: "areas",
+                    pattern: "/{area:exists}/{controller=Home}/{action=Index}/{id?}"
+                );
+
+                config.MapControllerRoute(
+                    name: "ProtectingUrlRoute",
+                    pattern: "/{controller}/{action}/{id}/{information}",
+                    defaults: new { Controller = "Category", Action = "Details" });
+
+                config.MapDefaultControllerRoute();
+
+                config.MapRazorPages();
+            });
 
             app.Run();
         }

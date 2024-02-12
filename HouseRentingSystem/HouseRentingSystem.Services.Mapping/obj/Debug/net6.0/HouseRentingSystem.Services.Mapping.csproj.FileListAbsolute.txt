@@ -1,0 +1,12 @@
+C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-April-2024\HouseRentingSystem\HouseRentingSystem.Services.Mapping\bin\Debug\net6.0\HouseRentingSystem.Services.Mapping.deps.json
+C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-April-2024\HouseRentingSystem\HouseRentingSystem.Services.Mapping\bin\Debug\net6.0\HouseRentingSystem.Services.Mapping.dll
+C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-April-2024\HouseRentingSystem\HouseRentingSystem.Services.Mapping\bin\Debug\net6.0\HouseRentingSystem.Services.Mapping.pdb
+C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-April-2024\HouseRentingSystem\HouseRentingSystem.Services.Mapping\obj\Debug\net6.0\HouseRentingSystem.Services.Mapping.csproj.AssemblyReference.cache
+C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-April-2024\HouseRentingSystem\HouseRentingSystem.Services.Mapping\obj\Debug\net6.0\HouseRentingSystem.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-April-2024\HouseRentingSystem\HouseRentingSystem.Services.Mapping\obj\Debug\net6.0\HouseRentingSystem.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-April-2024\HouseRentingSystem\HouseRentingSystem.Services.Mapping\obj\Debug\net6.0\HouseRentingSystem.Services.Mapping.AssemblyInfo.cs
+C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-April-2024\HouseRentingSystem\HouseRentingSystem.Services.Mapping\obj\Debug\net6.0\HouseRentingSystem.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-April-2024\HouseRentingSystem\HouseRentingSystem.Services.Mapping\obj\Debug\net6.0\HouseRentingSystem.Services.Mapping.dll
+C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-April-2024\HouseRentingSystem\HouseRentingSystem.Services.Mapping\obj\Debug\net6.0\refint\HouseRentingSystem.Services.Mapping.dll
+C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-April-2024\HouseRentingSystem\HouseRentingSystem.Services.Mapping\obj\Debug\net6.0\HouseRentingSystem.Services.Mapping.pdb
+C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-April-2024\HouseRentingSystem\HouseRentingSystem.Services.Mapping\obj\Debug\net6.0\ref\HouseRentingSystem.Services.Mapping.dll

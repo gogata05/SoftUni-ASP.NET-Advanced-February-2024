@@ -17,7 +17,7 @@ namespace HouseRentingSystem.Data.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "6.0.11")
+                .HasAnnotation("ProductVersion", "6.0.20")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
@@ -40,7 +40,7 @@ namespace HouseRentingSystem.Data.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("Agents");
+                    b.ToTable("Agents", (string)null);
                 });
 
             modelBuilder.Entity("HouseRentingSystem.Data.Models.ApplicationUser", b =>
@@ -62,6 +62,20 @@ namespace HouseRentingSystem.Data.Migrations
 
                     b.Property<bool>("EmailConfirmed")
                         .HasColumnType("bit");
+
+                    b.Property<string>("FirstName")
+                        .IsRequired()
+                        .ValueGeneratedOnAdd()
+                        .HasMaxLength(15)
+                        .HasColumnType("nvarchar(15)")
+                        .HasDefaultValue("Test");
+
+                    b.Property<string>("LastName")
+                        .IsRequired()
+                        .ValueGeneratedOnAdd()
+                        .HasMaxLength(15)
+                        .HasColumnType("nvarchar(15)")
+                        .HasDefaultValue("Testov");
 
                     b.Property<bool>("LockoutEnabled")
                         .HasColumnType("bit");
@@ -124,7 +138,7 @@ namespace HouseRentingSystem.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Categories");
+                    b.ToTable("Categories", (string)null);
 
                     b.HasData(
                         new
@@ -164,7 +178,7 @@ namespace HouseRentingSystem.Data.Migrations
                     b.Property<DateTime>("CreatedOn")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2023, 6, 23, 17, 29, 37, 294, DateTimeKind.Utc).AddTicks(7920));
+                        .HasDefaultValueSql("GETDATE()");
 
                     b.Property<string>("Description")
                         .IsRequired()
@@ -175,6 +189,11 @@ namespace HouseRentingSystem.Data.Migrations
                         .IsRequired()
                         .HasMaxLength(2048)
                         .HasColumnType("nvarchar(2048)");
+
+                    b.Property<bool>("IsActive")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bit")
+                        .HasDefaultValue(true);
 
                     b.Property<decimal>("PricePerMonth")
                         .HasColumnType("decimal(18,2)");
@@ -195,43 +214,46 @@ namespace HouseRentingSystem.Data.Migrations
 
                     b.HasIndex("RenterId");
 
-                    b.ToTable("Houses");
+                    b.ToTable("Houses", (string)null);
 
                     b.HasData(
                         new
                         {
-                            Id = new Guid("34c0d15d-05d8-49d0-9be3-bc2cb7454f5e"),
+                            Id = new Guid("3990fd63-aee0-46d7-b58d-cc8696d41285"),
                             Address = "North London, UK (near the border)",
                             AgentId = new Guid("f5086448-a741-4b80-b0c7-0263eb4e3ae9"),
                             CategoryId = 3,
                             CreatedOn = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Description = "A big house for your whole family. Don't miss to buy a house with three bedrooms.",
                             ImageUrl = "https://www.luxury-architecture.net/wp-content/uploads/2017/12/1513217889-7597-FAIRWAYS-010.jpg",
+                            IsActive = false,
                             PricePerMonth = 2100.00m,
                             RenterId = new Guid("079f3635-f031-4c1e-9750-08db740aa10f"),
                             Title = "Big House Marina"
                         },
                         new
                         {
-                            Id = new Guid("85369667-9471-4861-a5e2-5421820cf84a"),
+                            Id = new Guid("c0da46e4-a1e7-4490-9a05-8ea8b71f7aaf"),
                             Address = "Near the Sea Garden in Burgas, Bulgaria",
                             AgentId = new Guid("f5086448-a741-4b80-b0c7-0263eb4e3ae9"),
                             CategoryId = 2,
                             CreatedOn = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Description = "It has the best comfort you will ever ask for. With two bedrooms, it is great for your family.",
                             ImageUrl = "https://cf.bstatic.com/xdata/images/hotel/max1024x768/179489660.jpg?k=2029f6d9589b49c95dcc9503a265e292c2cdfcb5277487a0050397c3f8dd545a&o=&hp=1",
+                            IsActive = false,
                             PricePerMonth = 1200.00m,
                             Title = "Family House Comfort"
                         },
                         new
                         {
-                            Id = new Guid("905eac47-6348-465f-a7cd-892ce8092380"),
+                            Id = new Guid("2930bd36-068f-486a-b17f-ecaf774c0252"),
                             Address = "Boyana Neighbourhood, Sofia, Bulgaria",
                             AgentId = new Guid("f5086448-a741-4b80-b0c7-0263eb4e3ae9"),
                             CategoryId = 2,
                             CreatedOn = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Description = "This luxurious house is everything you will need. It is just excellent.",
                             ImageUrl = "https://i.pinimg.com/originals/a6/f5/85/a6f5850a77633c56e4e4ac4f867e3c00.jpg",
+                            IsActive = false,
                             PricePerMonth = 2000.00m,
                             Title = "Grand House"
                         });

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zDAIH2pQtFcchX4EMecgbjimaI2cei+fvzo4CN73nNnBtAOyrKn4vi/MFbZiRz/Q+NFgtLMYdU+tWWOvJg+1JQ==",
+  "dgSpecHash": "mfjszFUkY1tg/yHpywevASyc+IR3AgIssOMrzirFh/MwzGF0Zm+z7jgtP/65W2eELqAFZFTjYi+ji7gAs+4lig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gogat\\Music\\copy to github\\CSharpWeb-May2023\\ASP.NET Advanced\\HouseRentingSystem.Services.Tests\\HouseRentingSystem.Services.Tests.csproj",
+  "projectFilePath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Tests\\HouseRentingSystem.Services.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gogat\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\gogat\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

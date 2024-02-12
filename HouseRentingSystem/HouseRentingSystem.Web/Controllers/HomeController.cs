@@ -1,11 +1,10 @@
 ﻿namespace HouseRentingSystem.Web.Controllers
 {
-    using System.Diagnostics;
-
     using Microsoft.AspNetCore.Mvc;
 
     using Services.Data.Interfaces;
     using ViewModels.Home;
+    using static Common.GeneralApplicationConstants;
 
     public class HomeController : Controller
     {
@@ -18,16 +17,31 @@
 
         public async Task<IActionResult> Index()
         {
+            if (this.User.IsInRole(AdminRoleName))
+            {
+                return this.RedirectToAction("Index", "Home", new { Area = AdminAreaName });
+            }
+
             IEnumerable<IndexViewModel> viewModel =
-                await this.houseService.LastThreeHousesAsync();
+                await houseService.LastThreeHousesAsync();
 
             return View(viewModel);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        public IActionResult Error(int statusCode)
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            if (statusCode == 400 || statusCode == 404)
+            {
+                return View("Error404");
+            }
+            
+            if (statusCode == 401)
+            {
+                return View("Error401");
+            }
+
+            return View();
         }
     }
 }
