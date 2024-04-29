@@ -1,0 +1,500 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B26B61B-18F5-495F-96A2-3097AAEC55A0}|HouseRentingSystem.Services.Tests\\HouseRentingSystem.Services.Tests.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.services.tests\\agentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B26B61B-18F5-495F-96A2-3097AAEC55A0}|HouseRentingSystem.Services.Tests\\HouseRentingSystem.Services.Tests.csproj|solutionrelative:houserentingsystem.services.tests\\agentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B26B61B-18F5-495F-96A2-3097AAEC55A0}|HouseRentingSystem.Services.Tests\\HouseRentingSystem.Services.Tests.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.services.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B26B61B-18F5-495F-96A2-3097AAEC55A0}|HouseRentingSystem.Services.Tests\\HouseRentingSystem.Services.Tests.csproj|solutionrelative:houserentingsystem.services.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B26B61B-18F5-495F-96A2-3097AAEC55A0}|HouseRentingSystem.Services.Tests\\HouseRentingSystem.Services.Tests.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.services.tests\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B26B61B-18F5-495F-96A2-3097AAEC55A0}|HouseRentingSystem.Services.Tests\\HouseRentingSystem.Services.Tests.csproj|solutionrelative:houserentingsystem.services.tests\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B26B61B-18F5-495F-96A2-3097AAEC55A0}|HouseRentingSystem.Services.Tests\\HouseRentingSystem.Services.Tests.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.services.tests\\houserentingsystem.services.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B26B61B-18F5-495F-96A2-3097AAEC55A0}|HouseRentingSystem.Services.Tests\\HouseRentingSystem.Services.Tests.csproj|solutionrelative:houserentingsystem.services.tests\\houserentingsystem.services.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data\\configurations\\seedhousesentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|solutionrelative:houserentingsystem.data\\configurations\\seedhousesentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data\\houserentingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|solutionrelative:houserentingsystem.data\\houserentingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data\\migrations\\houserentingdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|solutionrelative:houserentingsystem.data\\migrations\\houserentingdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F0AB0-6CEC-4612-8EDE-C827B4D553F5}|HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.services.data\\houseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F0AB0-6CEC-4612-8EDE-C827B4D553F5}|HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj|solutionrelative:houserentingsystem.services.data\\houseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3CB05A-BA11-4436-8D0E-5287F3514783}|HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3CB05A-BA11-4436-8D0E-5287F3514783}|HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj|solutionrelative:houserentingsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2469A2E7-88C7-4F5E-8A91-34C75D2AF0B1}|HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.web.infrastructure\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2469A2E7-88C7-4F5E-8A91-34C75D2AF0B1}|HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj|solutionrelative:houserentingsystem.web.infrastructure\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F0AB0-6CEC-4612-8EDE-C827B4D553F5}|HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.services.data\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F0AB0-6CEC-4612-8EDE-C827B4D553F5}|HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj|solutionrelative:houserentingsystem.services.data\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEB2954-D477-4349-A90D-D0D14C158F68}|HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEB2954-D477-4349-A90D-D0D14C158F68}|HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj|solutionrelative:houserentingsystem.data.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEB2954-D477-4349-A90D-D0D14C158F68}|HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data.models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEB2954-D477-4349-A90D-D0D14C158F68}|HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj|solutionrelative:houserentingsystem.data.models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data\\migrations\\20230623172937_addcreatedoncolumntohouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|solutionrelative:houserentingsystem.data\\migrations\\20230623172937_addcreatedoncolumntohouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data\\migrations\\20230623170619_autogeneratedidsandseeddb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|solutionrelative:houserentingsystem.data\\migrations\\20230623170619_autogeneratedidsandseeddb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data\\migrations\\20230623170619_autogeneratedidsandseeddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|solutionrelative:houserentingsystem.data\\migrations\\20230623170619_autogeneratedidsandseeddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data\\migrations\\20230623164417_initializedb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|solutionrelative:houserentingsystem.data\\migrations\\20230623164417_initializedb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEB2954-D477-4349-A90D-D0D14C158F68}|HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data.models\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEB2954-D477-4349-A90D-D0D14C158F68}|HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj|solutionrelative:houserentingsystem.data.models\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F0AB0-6CEC-4612-8EDE-C827B4D553F5}|HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.services.data\\interfaces\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F0AB0-6CEC-4612-8EDE-C827B4D553F5}|HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj|solutionrelative:houserentingsystem.services.data\\interfaces\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F0AB0-6CEC-4612-8EDE-C827B4D553F5}|HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.services.data\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F0AB0-6CEC-4612-8EDE-C827B4D553F5}|HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj|solutionrelative:houserentingsystem.services.data\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F0AB0-6CEC-4612-8EDE-C827B4D553F5}|HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.services.data\\houserentingsystem.services.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{540F0AB0-6CEC-4612-8EDE-C827B4D553F5}|HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj|solutionrelative:houserentingsystem.services.data\\houserentingsystem.services.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEB2954-D477-4349-A90D-D0D14C158F68}|HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data.models\\houserentingsystem.data.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFEB2954-D477-4349-A90D-D0D14C158F68}|HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj|solutionrelative:houserentingsystem.data.models\\houserentingsystem.data.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEB2954-D477-4349-A90D-D0D14C158F68}|HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEB2954-D477-4349-A90D-D0D14C158F68}|HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj|solutionrelative:houserentingsystem.data.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data\\configurations\\houseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|solutionrelative:houserentingsystem.data\\configurations\\houseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data\\configurations\\categoryentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|solutionrelative:houserentingsystem.data\\configurations\\categoryentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data\\configurations\\applicationuserentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|solutionrelative:houserentingsystem.data\\configurations\\applicationuserentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.data\\houserentingsystem.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B95D1BDF-F64A-42D9-88B3-8D34D259D63B}|HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj|solutionrelative:houserentingsystem.data\\houserentingsystem.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D380437-1B27-4F50-BAB4-C5C830040213}|HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj|c:\\users\\gogat\\documents\\github\\softuni-asp.net-advanced-february-2024\\houserentingsystem\\houserentingsystem.common\\houserentingsystem.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D380437-1B27-4F50-BAB4-C5C830040213}|HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj|solutionrelative:houserentingsystem.common\\houserentingsystem.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Tests\\Usings.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Services.Tests\\Usings.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Tests\\Usings.cs",
+              "RelativeToolTip": "HouseRentingSystem.Services.Tests\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:15:35.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Tests\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Services.Tests\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Tests\\DatabaseSeeder.cs",
+              "RelativeToolTip": "HouseRentingSystem.Services.Tests\\DatabaseSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:15:32.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HouseRentingSystem.Services.Tests",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Tests\\HouseRentingSystem.Services.Tests.csproj",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Services.Tests\\HouseRentingSystem.Services.Tests.csproj",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Tests\\HouseRentingSystem.Services.Tests.csproj",
+              "RelativeToolTip": "HouseRentingSystem.Services.Tests\\HouseRentingSystem.Services.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T20:15:23.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedHousesEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Configurations\\SeedHousesEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data\\Configurations\\SeedHousesEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Configurations\\SeedHousesEntityConfiguration.cs",
+              "RelativeToolTip": "HouseRentingSystem.Data\\Configurations\\SeedHousesEntityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:40:50.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Tests\\AgentServiceTests.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Services.Tests\\AgentServiceTests.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Tests\\AgentServiceTests.cs",
+              "RelativeToolTip": "HouseRentingSystem.Services.Tests\\AgentServiceTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:46:08.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HouseRentingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingDbContext.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data\\HouseRentingDbContext.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingDbContext.cs",
+              "RelativeToolTip": "HouseRentingSystem.Data\\HouseRentingDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:40:33.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HouseRentingDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Migrations\\HouseRentingDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data\\Migrations\\HouseRentingDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Migrations\\HouseRentingDbContextModelSnapshot.cs",
+              "RelativeToolTip": "HouseRentingSystem.Data\\Migrations\\HouseRentingDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:02:18.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HouseService.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\HouseService.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Services.Data\\HouseService.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\HouseService.cs",
+              "RelativeToolTip": "HouseRentingSystem.Services.Data\\HouseService.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAAswBIBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:44:37.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "HouseRentingSystem.Data.Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:41:04.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\Agent.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data.Models\\Agent.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\Agent.cs",
+              "RelativeToolTip": "HouseRentingSystem.Data.Models\\Agent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:40:59.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AgentService.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\AgentService.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Services.Data\\AgentService.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\AgentService.cs",
+              "RelativeToolTip": "HouseRentingSystem.Services.Data\\AgentService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswDYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:41:39.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Web.Infrastructure\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Web.Infrastructure\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Web.Infrastructure\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "HouseRentingSystem.Web.Infrastructure\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAUwEcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:43:55.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Web\\Program.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Web\\Program.cs",
+              "RelativeToolTip": "HouseRentingSystem.Web\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvyoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:43:58.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20230623172937_AddCreatedOnColumnToHouses.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Migrations\\20230623172937_AddCreatedOnColumnToHouses.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data\\Migrations\\20230623172937_AddCreatedOnColumnToHouses.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Migrations\\20230623172937_AddCreatedOnColumnToHouses.cs",
+              "RelativeToolTip": "HouseRentingSystem.Data\\Migrations\\20230623172937_AddCreatedOnColumnToHouses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:43:15.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20230623170619_AutoGeneratedIdsAndSeedDb.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Migrations\\20230623170619_AutoGeneratedIdsAndSeedDb.Designer.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data\\Migrations\\20230623170619_AutoGeneratedIdsAndSeedDb.Designer.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Migrations\\20230623170619_AutoGeneratedIdsAndSeedDb.Designer.cs",
+              "RelativeToolTip": "HouseRentingSystem.Data\\Migrations\\20230623170619_AutoGeneratedIdsAndSeedDb.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:43:11.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20230623170619_AutoGeneratedIdsAndSeedDb.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Migrations\\20230623170619_AutoGeneratedIdsAndSeedDb.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data\\Migrations\\20230623170619_AutoGeneratedIdsAndSeedDb.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Migrations\\20230623170619_AutoGeneratedIdsAndSeedDb.cs",
+              "RelativeToolTip": "HouseRentingSystem.Data\\Migrations\\20230623170619_AutoGeneratedIdsAndSeedDb.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAUwDUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:43:09.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20230623164417_InitializeDb.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Migrations\\20230623164417_InitializeDb.Designer.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data\\Migrations\\20230623164417_InitializeDb.Designer.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Migrations\\20230623164417_InitializeDb.Designer.cs",
+              "RelativeToolTip": "HouseRentingSystem.Data\\Migrations\\20230623164417_InitializeDb.Designer.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAiwA0BAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:43:02.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAgentService.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\Interfaces\\IAgentService.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Services.Data\\Interfaces\\IAgentService.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\Interfaces\\IAgentService.cs",
+              "RelativeToolTip": "HouseRentingSystem.Services.Data\\Interfaces\\IAgentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:42:08.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\CategoryService.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Services.Data\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\CategoryService.cs",
+              "RelativeToolTip": "HouseRentingSystem.Services.Data\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:42:03.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HouseRentingSystem.Services.Data",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj",
+              "RelativeToolTip": "HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T16:41:37.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "House.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\House.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data.Models\\House.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\House.cs",
+              "RelativeToolTip": "HouseRentingSystem.Data.Models\\House.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:41:08.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\Category.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\Category.cs",
+              "RelativeToolTip": "HouseRentingSystem.Data.Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:41:06.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HouseRentingSystem.Data.Models",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj",
+              "RelativeToolTip": "HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T16:40:57.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HouseEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Configurations\\HouseEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data\\Configurations\\HouseEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Configurations\\HouseEntityConfiguration.cs",
+              "RelativeToolTip": "HouseRentingSystem.Data\\Configurations\\HouseEntityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:40:44.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Configurations\\CategoryEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data\\Configurations\\CategoryEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Configurations\\CategoryEntityConfiguration.cs",
+              "RelativeToolTip": "HouseRentingSystem.Data\\Configurations\\CategoryEntityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:40:43.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationUserEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Configurations\\ApplicationUserEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data\\Configurations\\ApplicationUserEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\Configurations\\ApplicationUserEntityConfiguration.cs",
+              "RelativeToolTip": "HouseRentingSystem.Data\\Configurations\\ApplicationUserEntityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:40:40.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HouseRentingSystem.Data",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj",
+              "RelativeToolTip": "HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T14:52:10.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HouseRentingSystem.Common.csproj",
+              "DocumentMoniker": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj",
+              "ToolTip": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj",
+              "RelativeToolTip": "HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T14:51:44.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

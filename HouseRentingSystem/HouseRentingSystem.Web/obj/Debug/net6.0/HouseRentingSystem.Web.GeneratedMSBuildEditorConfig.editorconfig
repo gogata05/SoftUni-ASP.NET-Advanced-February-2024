@@ -9,129 +9,131 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HouseRentingSystem.Web
 build_property.RootNamespace = HouseRentingSystem.Web
-build_property.ProjectDir = C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-April-2024\HouseRentingSystem\HouseRentingSystem.Web\
+build_property.ProjectDir = C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-February-2024\HouseRentingSystem\HouseRentingSystem.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-April-2024\HouseRentingSystem\HouseRentingSystem.Web
+build_property.MSBuildProjectDirectory = C:\Users\gogat\Documents\Github\SoftUni-ASP.NET-Advanced-February-2024\HouseRentingSystem\HouseRentingSystem.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Areas/Admin/Views/Home/Index.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Areas/Admin/Views/House/Mine.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Areas/Admin/Views/House/Mine.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG91c2VcTWluZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Areas/Admin/Views/Rent/All.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Areas/Admin/Views/Rent/All.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVudFxBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Areas/Admin/Views/User/All.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Areas/Admin/Views/User/All.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Agent/Become.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Agent/Become.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbnRcQmVjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Category/All.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Category/All.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWxsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Category/Details.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Category/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Home/Error.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Home/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Home/Error401.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Home/Error401.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvcjQwMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Home/Error404.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Home/Error404.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvcjQwNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Home/Index.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/House/Add.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/House/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/House/All.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/House/All.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcQWxsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/House/Delete.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/House/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/House/Details.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/House/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/House/Edit.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/House/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/House/Mine.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/House/Mine.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcTWluZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Shared/_HouseFormPartial.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Shared/_HouseFormPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ib3VzZUZvcm1QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Shared/_HousePartial.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Shared/_HousePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ib3VzZVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Shared/_NotificationsPartial.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Shared/_NotificationsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25zUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/User/Login.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/User/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/User/Register.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/User/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/_ViewImports.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/_ViewStart.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-njndye3sp3
 
-[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-April-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Shared/_Layout.cshtml]
+[C:/Users/gogat/Documents/Github/SoftUni-ASP.NET-Advanced-February-2024/HouseRentingSystem/HouseRentingSystem.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-e4nr7q41rw

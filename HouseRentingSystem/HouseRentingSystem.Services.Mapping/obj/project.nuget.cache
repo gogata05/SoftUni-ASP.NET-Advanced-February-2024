@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pj4EXul+uh8iolcSm1LcRRvvEAVKHviAVbNw3frxx4dUXYEHCeCaBS0nikjYpmYhFRl8J5VvtQYGiTN6vJF6Mw==",
+  "dgSpecHash": "IsS8rvzjybty2AkDUJJqSGk2Ym7qX2CTpkuLPGIJnbjs8c7qmFCKu5ft0s+aPFzWJdOBEbeGX4OxufMdu4nfiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Mapping\\HouseRentingSystem.Services.Mapping.csproj",
+  "projectFilePath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Mapping\\HouseRentingSystem.Services.Mapping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gogat\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\gogat\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"

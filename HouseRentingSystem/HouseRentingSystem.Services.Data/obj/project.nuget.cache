@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HaZ6yQXDTDS3SmGQda0BbPwbxZjb+Y2IxnF9TyvBlYj1dmG5Wn8SycTBrJx6JF1r/xagF9hKxoRbPoEet2BtMA==",
+  "dgSpecHash": "YzDHY4kzNl3Q562gYEFAYD93YvDkCP0qDDeCbxY926UsdkyutnxnBfhbHfxFlQx1aqJ62S1MeT7YSktam9ospw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj",
+  "projectFilePath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Services.Data\\HouseRentingSystem.Services.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gogat\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\gogat\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.20\\microsoft.aspnetcore.cryptography.internal.6.0.20.nupkg.sha512",

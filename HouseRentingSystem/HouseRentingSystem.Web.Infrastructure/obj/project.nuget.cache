@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7C62mJoSwMHRBrqSnNziqNK1PVVGeqfzJehLSiXGVQGhv+lMHnvxemWOJ8L64YXZr1HZloc9/ppmHxth3xlA6Q==",
+  "dgSpecHash": "Ir0wWVE3U85E+bKHhYExtJ3nSsuH7G/RfhcYnOjxZrWpx6Qm5wHJN3fqriilb5ErTOZ/BurlAaMrbB2qwSwA/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-April-2024\\HouseRentingSystem\\HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\gogat\\Documents\\Github\\SoftUni-ASP.NET-Advanced-February-2024\\HouseRentingSystem\\HouseRentingSystem.Web.Infrastructure\\HouseRentingSystem.Web.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gogat\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\gogat\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
