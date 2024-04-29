@@ -1,4 +1,4 @@
-<img src="https://imgur.com/ggYTIVc.png" alt="Certificate"/>
+<img src="https://imgur.com/Ar3Fgy7.png" alt="Certificate"/>
   
 ### 📚 SoftUni-ASP.NET-Advanced-February-2024
 
@@ -25,7 +25,7 @@ The training includes hands-on workshops for building complete, full-featured AS
 
 ### Certificate
 
-![Certificate](https://imgur.com/ggYTIVc.png)
+![Certificate](https://imgur.com/Ar3Fgy7.png)
 
 
  
